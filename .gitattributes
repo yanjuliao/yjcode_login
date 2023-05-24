@@ -1,2 +1,1 @@
-$ cat .gitattributes
-*.sln linguist-language=Dart
+* linguist-vendored
